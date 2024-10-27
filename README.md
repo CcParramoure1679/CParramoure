@@ -19,7 +19,7 @@
           
 ✨ Furture Goals of mine include getting my network and security certs from Comptia, I also am interested in cloud certificaiton as well as I believe everything is moving to cloudbased and its important for everyone in the IT world to have a strong background in that subfiled.
 - Skills that I possess: linux, virtualization, basic hacking, network troubleshooting
-- Currently work at Helpdesk and assist users with basic troubleshooting and program installations however, the future plans I have veer towards networking. Hoping that a
+- Currently work at Helpdesk and assist users with basic troubleshooting and program installations however, the future plans I have veer towards networking, and I will shift focus after graduation to specific Certs.
 
 <!---
 CcParramoure1679/CcParramoure1679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
