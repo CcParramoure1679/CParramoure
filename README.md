@@ -1,17 +1,16 @@
 👋 Hi, I’m CParramoure
 👀  About Me
       I'm a network student with a passion for fixing broken things. 
+🌱 Diving into Networks and Securtiy
+    Classes include Ethical Hacking, InfoSec2 and Virutalization this semester.
 
- 🌱 Diving into Networks and Securtiy
--     Classes include Ethical Hacking, InfoSec2 and Virutalization this semester.
-- 
 💞️ I’m looking to collaborate on network and security projects as next semeseter I will have to start a project of my own before graduation.
-- 
-- 🛠️ Technologies and Tools
--       Active Directory, Python, Windows
--       Virtualization, Exchange, RDP
--       Inventory Analysis, Tech support, Excel
--       
+
+🛠️ Technologies and Tools
+    Active Directory, Python, Windows
+      Virtualization, Exchange, RDP
+      Inventory Analysis, Tech support, Excel
+      
 📫 Contact
         www.linkedin.com/in/caresse-parramoure-353276150  
         
