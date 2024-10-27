@@ -1,6 +1,8 @@
 👋 Hi, I’m CParramoure
+
 👀  About Me
       I'm a network student with a passion for fixing broken things. 
+
 🌱 Diving into Networks and Securtiy
     Classes include Ethical Hacking, InfoSec2 and Virutalization this semester.
 
