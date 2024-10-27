@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CcParramoure1679
+- 👋 Hi, I’m CParramoure
 - 👀 I’m interested in ... security and networking projects!
 - 🌱 I’m currently in classes at a local tech and loving ethical hacking and security discussions.
 - 💞️ I’m looking to collaborate on network and security projects as next semeseter I will have to start a project of my own before graduation.
